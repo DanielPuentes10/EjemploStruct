@@ -1,3 +1,3 @@
-# Struct_C-
+# Struct C++
 Explicacion del funcionamiento de Struct en c++
 
